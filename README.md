@@ -1,1 +1,1 @@
-"# Create-SQL-query-from-plain-english-" 
+# Create-SQL-query-from-plain-english
